@@ -1,0 +1,16 @@
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\RTE.exe.config
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\RTE.exe
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\RTE.pdb
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\MaterialSkin.dll
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\MetroFramework.Design.dll
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\MetroFramework.dll
+C:\Users\Feromone\source\repos\RTE\RTE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.csprojAssemblyReference.cache
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.Form1.resources
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.Properties.Resources.resources
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.csproj.GenerateResource.cache
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.csproj.CoreCompileInputs.cache
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.csproj.CopyComplete
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.exe
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.pdb
+C:\Users\Feromone\source\repos\RTE\RTE\obj\Debug\RTE.About_Info.resources
