@@ -1,1 +1,1 @@
-"# RichTextEditor" 
+# RichTextEditor
